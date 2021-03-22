@@ -1,6 +1,6 @@
 # Smart Surfing
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/pratham31012002/Smart_Surfing?logo=github&style=social)](https://github.com/pratham31012002/) [![GitHub last commit](https://img.shields.io/github/last-commit/pratham31012002/Smart_Surfing?style=social&logo=git)](https://github.com/pratham31012002/) [![GitHub stars](https://img.shields.io/github/stars/pratham31012002/Smart_Surfing?style=social)](https://github.com/pratham31012002/Smart_Surfing/stargazers) [![GitHub forks](https://img.shields.io/github/forks/pratham31012002/Smart_Surfing?style=social&logo=git)](https://github.com/pratham31012002/Smart_Surfing/network)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Thamanmuthappa/Smart_Surfing?logo=github&style=social)](https://github.com/Thamanmuthappa/) [![GitHub last commit](https://img.shields.io/github/last-commit/Thamanmuthappa/Smart_Surfing?style=social&logo=git)](https://github.com/Thamanmuthappa/) [![GitHub stars](https://img.shields.io/github/stars/Thamanmuthappa/Smart_Surfing?style=social)](https://github.com/Thamanmuthappa/Smart_Surfing/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Thamanmuthappa/Smart_Surfing?style=social&logo=git)](https://github.com/Thamanmuthappa/Smart_Surfing/network)
 
 <p align="center">
   <img src="images/LOGO3.png" height="100px"></img>
@@ -45,7 +45,7 @@ The source code of this project is written in **`HTML/CSS/JS`**. So, you do not 
 # Installation Guide to Run Locally
 - Clone the repository on your local system
 ```bash
-$ git clone https://github.com/pratham31012002/Smart_Surfing.git
+$ git clone https://github.com/Thamanmuthappa/Smart_Surfing.git
 ```
 
 - Open [chrome://extensions/](https://chrome://extensions/) on your chrome browser

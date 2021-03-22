@@ -67,7 +67,7 @@ $ git clone https://github.com/Thamanmuthappa/Smart_Surfing.git
   - Creating an open source community who would maintain the API's called and implement new features.
 
 # Contributors
+- [Thaman Muthappa M N](https://github.com/Thamanmuthappa)
 - [Pratham Jain](https://github.com/pratham31012002)
 - [Vaibhav Bhartia](https://github.com/VaibhavBha)
-- [Thaman Muthappa M N](https://github.com/Thamanmuthappa)
 - [Rishi Malgwa](https://github.com/rishimalgwa)

@@ -45,7 +45,7 @@ The source code of this project is written in **`HTML/CSS/JS`**. So, you do not 
 # Installation Guide to Run Locally
 - Clone the repository on your local system
 ```bash
-$ git clone https://github.com/Thamanmuthappa/Smart_Surfing.git
+$ git clone https://github.com/Thamanmuthappa/Smart-Surfing.git
 ```
 
 - Open [chrome://extensions/](https://chrome://extensions/) on your chrome browser

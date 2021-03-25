@@ -71,3 +71,7 @@ $ git clone https://github.com/Thamanmuthappa/Smart_Surfing.git
 - [Pratham Jain](https://github.com/pratham31012002)
 - [Vaibhav Bhartia](https://github.com/VaibhavBha)
 - [Rishi Malgwa](https://github.com/rishimalgwa)
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)

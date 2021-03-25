@@ -1,6 +1,6 @@
 # Smart Surfing
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Thamanmuthappa/Smart_Surfing?logo=github&style=social)](https://github.com/Thamanmuthappa/) [![GitHub last commit](https://img.shields.io/github/last-commit/Thamanmuthappa/Smart_Surfing?style=social&logo=git)](https://github.com/Thamanmuthappa/) [![GitHub stars](https://img.shields.io/github/stars/Thamanmuthappa/Smart_Surfing?style=social)](https://github.com/Thamanmuthappa/Smart_Surfing/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Thamanmuthappa/Smart_Surfing?style=social&logo=git)](https://github.com/Thamanmuthappa/Smart_Surfing/network)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Thamanmuthappa/Smart-Surfing?logo=github&style=social)](https://github.com/Thamanmuthappa/) [![GitHub last commit](https://img.shields.io/github/last-commit/Thamanmuthappa/Smart-Surfing?style=social&logo=git)](https://github.com/Thamanmuthappa/) [![GitHub stars](https://img.shields.io/github/stars/Thamanmuthappa/Smart-Surfing?style=social)](https://github.com/Thamanmuthappa/Smart-Surfing/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Thamanmuthappa/Smart-Surfing?style=social&logo=git)](https://github.com/Thamanmuthappa/Smart_Surfing/network)
 
 <p align="center">
   <img src="images/LOGO3.png" height="100px"></img>

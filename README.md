@@ -48,7 +48,7 @@ The source code of this project is written in **`HTML/CSS/JS`**. So, you do not 
 $ git clone https://github.com/Thamanmuthappa/Smart-Surfing.git
 ```
 
-- Open [chrome://extensions/](https://chrome://extensions/) on your chrome browser
+- Open [chrome://extensions/](chrome://extensions/) on your chrome browser
 - Turn on Developer Mode
 - Click on Load Unpacked
 - Go to the location of the repository and click Select Folder
